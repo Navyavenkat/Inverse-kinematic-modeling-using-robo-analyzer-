@@ -38,8 +38,11 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ### PROCEDURE:
 
 1.Open the roboanalyzer software.
+
 2.Select the robot and the degrees of freedom.
+
 3.Change the values with the link length wherever necessary.
+
 4.Give input to the model for inverse kinematics.
 
  
